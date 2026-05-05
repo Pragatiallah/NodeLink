@@ -14,7 +14,7 @@
   "main": "src/index.ts",
 "engines": {
   "node": "22.x"
-}
+},
   "dependencies": {
     "@alexanderolsen/libsamplerate-js": "^2.1.2",
     "@ecliptia/faad2-wasm": "2.11.2-ecliptia.2",
